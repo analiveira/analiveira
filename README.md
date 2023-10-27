@@ -12,4 +12,4 @@ silva.oliveira27@escola.pr.gov.br
 
 @ana beatriz
 
-{}(https://media.tenor.com/KO6BR15mTv0AAAAC/anime.gif)
+![](https://media.tenor.com/KO6BR15mTv0AAAAC/anime.gif)
